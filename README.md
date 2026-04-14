@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marian Sayegh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Software+Engineering+Student;Building+Real-World+Systems&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend-Focused;Software+Engineering+Student;Building+Real-World+Systems&center=true&width=500&height=50">
 </p>
 
 <p align="center">
