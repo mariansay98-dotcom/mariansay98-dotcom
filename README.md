@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marian Sayegh</h1>
 
-<h3 align="center">Software Engineering Student | Backend Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Software+Engineering+Student;Building+Real-World+Systems&center=true&width=500&height=50">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marian-sayegh-723453356">
@@ -14,10 +16,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Software Engineering student  
-- 💻 Focused on backend development  
-- 🔥 Building real-world systems with Node.js & MongoDB  
-- 📚 Passionate about learning and improving  
+- 🎓 Software Engineering Student  
+- 💻 Backend Developer (Node.js, Express, MongoDB)  
+- 🔐 Interested in Authentication, APIs, and scalable systems  
+- 📚 Always learning and building real-world projects  
 
 ---
 
@@ -46,20 +48,37 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔹 Backend System
-Production-style backend built with Node.js, Express, and MongoDB.  
-Includes authentication (JWT), REST APIs, and CRUD operations.
+Production-style backend built with Node.js, Express, and MongoDB  
+✔ Authentication (JWT)  
+✔ REST APIs  
+✔ CRUD operations  
 
 ### 🔹 Bistro Restaurant Management System
-Full-stack system using Java and MySQL based on client-server architecture.
+Full-stack system using Java and MySQL  
+✔ Client-server architecture  
+✔ DAO pattern  
+✔ Role-based access  
 
 ---
 
 ## 🎯 Goals
-- Grow as a Backend Developer  
-- Build production-level projects  
+- Become a strong Backend Developer  
+- Build scalable production-level systems  
 - Gain real-world experience  
 
 ---
